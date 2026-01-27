@@ -1,5 +1,9 @@
 <h1 align="center">RoverCrawler 🕷️🚀</h1>
 <p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
+<p align="center">
   <img width="498" height="214" alt="image-removebg-preview (43)" src="https://github.com/user-attachments/assets/ae86bcac-179c-4b62-add8-79dc082d94de" />
 </p>
 <h2 align="center">Single-file web crawler for site structure mapping</h2>
