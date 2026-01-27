@@ -38,7 +38,7 @@
 
 ## 🖥️ Installation
 
-Just clone this repository: (you NEED 'git' installed for you to be able to clone it)
+Just clone this repository: (you NEED `git` installed for you to be able to clone it)
 
 ```bash
 git clone https://github.com/URDev4ever/RoverCrawler.git
