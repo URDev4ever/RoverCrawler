@@ -200,4 +200,14 @@ Vos sos responsable del uso que le des a esta herramienta.
 
 ---
 
+## ⭐ Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran la confiabilidad del crawling, la normalización de URLs o la precisión del árbol estructural sin introducir comportamientos agresivos
+* Mejoran el rendimiento, la lógica de rate limiting o las capacidades de exportación manteniendo el proyecto en un solo archivo y limpio
+* Mantienen la filosofía de crawling controlado y respetuoso (sin explotación, sin técnicas de bypass, sin funciones de evasión)
+
+---
+
 Hecho con <3 por URDev.
