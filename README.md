@@ -199,4 +199,14 @@ Always respect:
 You are responsible for how you use this tool.
 
 ---
+
+## ⭐ Contributing
+
+Pull requests are welcome if they:
+
+* Improve crawling reliability, URL normalization, or tree-structure accuracy without introducing aggressive behavior
+* Enhance performance, rate limiting logic, or export capabilities while keeping the project single-file and clean
+* Maintain the controlled, respectful crawling philosophy (no exploitation, no bypass techniques, no evasion features)
+
+---
 Made with <3 by URDev.
